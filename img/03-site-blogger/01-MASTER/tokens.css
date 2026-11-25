@@ -1,0 +1,2 @@
+:root{--brand-bg:#07172E;--brand-fg:#FFF1D5;--brand-accent:#F4A62B;--ink:#14243D;--paper:#FFF4DF;--gap:8px;--radius:12px}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

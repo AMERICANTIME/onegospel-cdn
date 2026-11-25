@@ -1,0 +1,17 @@
+{
+  "name": "ONE GOSPEL RADIO STATION BRAZIL",
+  "short_name": "ONE GOSPEL",
+  "icons": [
+    {
+      "src": "one-gospel-radio-station-brazil-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "one-gospel-radio-station-brazil-pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
